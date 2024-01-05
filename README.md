@@ -25,4 +25,5 @@
 По уязвимостям можно выделить следующие:
  
 - [vsftpd 2.3.4 - Backdoor Command Execution](https://www.exploit-db.com/exploits/49757)
+- [GNU Classpath 0.97.2 - 'gnu.java.security.util.PRNG' Class Entropy (2)](https://www.exploit-db.com/exploits/32674)
 - 
