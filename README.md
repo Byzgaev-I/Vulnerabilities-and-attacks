@@ -19,3 +19,7 @@
 
 ![image](https://github.com/Byzgaev-I/Vulnerabilities-and-attacks/blob/main/Metasploitable.png)
 
+![image](https://github.com/Byzgaev-I/Vulnerabilities-and-attacks/blob/main/Metasploitable2.png)
+
+
+По уязвимостям можно выделить следующие:
