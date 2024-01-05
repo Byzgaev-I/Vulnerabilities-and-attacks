@@ -24,5 +24,5 @@
 
 По уязвимостям можно выделить следующие:
  
-- vsftpd 2.3.4 [ссылка](https://www.exploit-db.com/exploits/49757)
+- [vsftpd 2.3.4 - Backdoor Command Execution](https://www.exploit-db.com/exploits/49757)
 - 
